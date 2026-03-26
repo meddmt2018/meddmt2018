@@ -12,4 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=meddmt2018&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meddmt2018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Farrell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meddmt2018&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=meddmt2018&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meddmt2018&layout=compact&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hello+World!+👋;Farrell+Ahmed+Dimitrie;Java+%26+Web+Developer)](https://git.io/typing-svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
